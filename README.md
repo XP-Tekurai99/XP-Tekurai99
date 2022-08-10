@@ -6,4 +6,3 @@
 - 💬 Ask me about sharks
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I play electric guitar
--->
