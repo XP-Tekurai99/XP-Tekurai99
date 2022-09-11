@@ -1,7 +1,7 @@
 ### Hey.
 
-- 🔭 I’m currently working on getting a computer science degree from WGU
-- 🌱 Learning about: Truffle, React, and Node
+- 🔭 I’m currently working on getting a computer science degree
+- 🌱 Learning about: consensus algorithms and token standards
 - 👯 I’m looking to collaborate on blockchain projects
 - 💬 Ask me about sharks
 - ⚡ Fun fact: I play electric guitar
