@@ -24,3 +24,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![Taeshawn Threatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=xp-tekurai99&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xp-tekurai99&layout=true&theme=dark)](https://github.com/XP-Tekurai99/github-readme-stats)
