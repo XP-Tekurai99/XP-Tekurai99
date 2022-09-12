@@ -1,10 +1,9 @@
-### Hey.
+# Taeshawn Threatt
+## Blockchain Developer | DeFi | DAOs | dApps
 
 - 🔭 I’m currently working on getting a computer science degree
 - 🌱 Learning about: consensus algorithms and token standards
 - 👯 I’m looking to collaborate on blockchain projects
-- 💬 Ask me about sharks
-- ⚡ Fun fact: I play electric guitar
 
 <h3 align="center">More Info</h3>
 
