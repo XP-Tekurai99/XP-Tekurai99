@@ -5,8 +5,6 @@
 - 🌱 Learning about: consensus algorithms and token standards
 - 👯 I’m looking to collaborate on blockchain projects
 
-<h3 align="center">More Info</h3>
-
 <h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taeshawn-threatt-402147133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="402147133" height="30" width="40" /></a>
