@@ -2,7 +2,6 @@
 ## Blockchain Developer | DeFi | DAOs | dApps
 ![image](https://www.lovethispic.com/uploaded_images/182523-Futuristic-Space.gif)
 
-- 🔭 I’m currently working on getting a computer science degree
 - 🌱 Learning about: consensus algorithms and token standards
 - 👯 I’m looking to collaborate on blockchain projects
 
