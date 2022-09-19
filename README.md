@@ -27,8 +27,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xp-tekurai99&layout=true&theme=dark)](https://github.com/XP-Tekurai99/github-readme-stats)
 -->
 
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-light-mode-only)
+![Taeshawn Threatt's GitHub Stats](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-dark-mode-only)
+![Taeshawn Threatt's GitHub Stats](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-white-mode-only)
 
 ![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-white-mode-only)
+
