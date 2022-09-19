@@ -1,5 +1,5 @@
 # Taeshawn Threatt
-## Blockchain Developer | DeFi | DAOs | dApps
+## Blockchain Developer | Web3 | DeFi | DAOs | dApps | ETH
 ![image](https://www.lovethispic.com/uploaded_images/182523-Futuristic-Space.gif)
 
 - 🌱 Learning about: consensus algorithms and token standards
