@@ -16,6 +16,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" width="40" height="40"/> </a>
+<a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110959584/190958349-e49e9cdc-1c16-496f-b8b0-6e2acf3adf6d.png" alt="hardhat" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -29,7 +30,6 @@
 
 ![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-white-mode-only)
-
 ![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-white-mode-only)
 
