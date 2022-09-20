@@ -28,8 +28,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xp-tekurai99&layout=true&theme=dark)](https://github.com/XP-Tekurai99/github-readme-stats)
 -->
 
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/overview.svg#gh-white-mode-only)
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/XP-Tekurai99/Stats/master/generated/languages.svg#gh-white-mode-only)
+ <a href="https://github.com/jstrieb/github-stats"> 
+ <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
+ <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
+ </a> 
 
