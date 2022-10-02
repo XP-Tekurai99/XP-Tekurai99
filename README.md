@@ -1,6 +1,6 @@
 # Taeshawn Threatt
+
 ## Blockchain Developer
-![image](https://www.lovethispic.com/uploaded_images/182523-Futuristic-Space.gif)
 
 - Learning about: consensus algorithms and token standards
 - I’m looking to collaborate on blockchain projects
