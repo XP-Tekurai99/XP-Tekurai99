@@ -22,14 +22,11 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--
-![Taeshawn Threatt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xp-tekurai99&theme=dark&show_icons=true)
+<!--Stats-->
+<a href="https://github.com/jstrieb/github-stats"> 
+<img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
+<img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
+</a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xp-tekurai99&layout=true&theme=dark)](https://github.com/XP-Tekurai99/github-readme-stats)
--->
-
- <a href="https://github.com/jstrieb/github-stats"> 
- <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
- <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
- </a> 
-
+<!--Rogar Animation-->
+![snake animation](https://github.com/<XP-Tekurai99>/<XP-Tekurai99>/blob/output/github-contribution-grid-snake2.svg)
