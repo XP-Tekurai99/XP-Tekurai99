@@ -22,7 +22,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Stats
+
+<h3 align="left">Stats:</h3>
 <a href="https://github.com/jstrieb/github-stats"> 
 <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
 <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
