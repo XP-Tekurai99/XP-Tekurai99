@@ -27,6 +27,7 @@
 <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
 <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
 </a> 
-
-<!--Rogar Animation-->
+<!--
+Rogar Animation
 ![snake animation](https://github.com/<XP-Tekurai99>/<XP-Tekurai99>/blob/output/github-contribution-grid-snake2.svg)
+-->
