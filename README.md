@@ -24,6 +24,9 @@
 
 
 <h3 align="left">Stats:</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XP-Tekurai99&theme=tokyonight&hide_border=true&border_radius=54)](https://git.io/streak-stats)
+
 <a href="https://github.com/jstrieb/github-stats"> 
 <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
 <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
