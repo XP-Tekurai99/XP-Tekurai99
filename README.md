@@ -25,12 +25,23 @@
 
 <h3 align="left">Stats:</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XP-Tekurai99&theme=tokyonight&hide_border=true&border_radius=54)](https://git.io/streak-stats)
+<p
+  align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XP-Tekurai99&theme=tokyonight&hide_border=true&border_radius=54"/>
+</p>
 
-<a href="https://github.com/jstrieb/github-stats"> 
-<img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> 
-<img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> 
-</a> 
+<p
+  align="center">
+  <a
+    href="https://github.com/jstrieb/github-stats">
+    <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/overview.svg#gh-dark-mode-only"/> 
+    <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only"/> 
+  </a>
+</p>
 
 Watch my snake Balazar feast on my contributuions.
-![snake animation](https://github.com/XP-Tekurai99/XP-Tekurai99/blob/output/github-contribution-grid-snake2.svg)
+
+<p
+  align="center">
+  <img src="https://github.com/XP-Tekurai99/XP-Tekurai99/blob/output/github-contribution-grid-snake2.svg"/>
+</p>
