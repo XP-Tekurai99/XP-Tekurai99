@@ -1,9 +1,15 @@
-# Taeshawn Threatt
+# 👽 Taeshawn Threatt 🤖
+
+<p
+  align="center">
+  <img src="https://media.tenor.com/23NitOvEEkMAAAAi/optical-illusion-rotating-head.gif"/>
+</p>
 
 ## Blockchain Developer
 
 - Learning about: consensus algorithms and token standards
 - I’m looking to collaborate on blockchain projects
+- General interests: Simulations, Cybernetics, Robotics, Artificial Intelligence, Blockchains
 
 <h3 align="left">Connect:</h3>
 <p align="left">
@@ -39,7 +45,7 @@
   </a>
 </p>
 
-Watch my snake Balazar feast on my contributuions.
+#### Watch my snake Balazar feast on my contributuions.
 
 <p
   align="center">
