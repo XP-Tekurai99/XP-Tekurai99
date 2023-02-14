@@ -8,7 +8,7 @@
 ## Software Developer
 
 - Learning about: consensus algorithms and token standards
-- I’m looking to collaborate on blockchain projects
+- I’m looking to collaborate on machine learning projects
 - General interests: Simulations, Cybernetics, Robotics, Artificial Intelligence, Blockchains
 
 <h3 align="left">Connect:</h3>
