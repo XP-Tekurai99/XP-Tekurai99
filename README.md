@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/23NitOvEEkMAAAAi/optical-illusion-rotating-head.gif"/>
 </p>
 
-## Blockchain Developer
+## Software Developer
 
 - Learning about: consensus algorithms and token standards
 - I’m looking to collaborate on blockchain projects
