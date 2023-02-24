@@ -1,15 +1,15 @@
-# 👽 Taeshawn Threatt 🤖
+# 👽 Shawn Threatt 🤖
 
 <p
   align="center">
   <img src="https://media.tenor.com/23NitOvEEkMAAAAi/optical-illusion-rotating-head.gif"/>
 </p>
 
-## Software Developer
+## Software Engineer
 
-- Learning about: consensus algorithms and token standards
+- Learning about: applications of AI in healthcare, 
 - I’m looking to collaborate on machine learning projects
-- General interests: Simulations, Cybernetics, Robotics, Artificial Intelligence, Blockchains
+- General interests: Simulations, Cybernetics, Robotics, Artificial Intelligence, Blockchains, Ancient History, and Futurology
 
 <h3 align="left">Connect:</h3>
 <p align="left">
