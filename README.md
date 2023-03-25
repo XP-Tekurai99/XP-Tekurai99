@@ -50,10 +50,3 @@
     <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only"/> 
   </a>
 </p>
-
-#### Watch my snake Balazar feast on my contributuions.
-
-<p
-  align="center">
-  <img src="https://github.com/XP-Tekurai99/XP-Tekurai99/blob/output/github-contribution-grid-snake2.svg"/>
-</p>
