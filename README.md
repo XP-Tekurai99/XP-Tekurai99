@@ -52,3 +52,10 @@
     <img src="https://github.com/XP-Tekurai99/Stats/blob/master/generated/languages.svg#gh-dark-mode-only"/> 
   </a>
 </p>
+
+<h3 align="center">Balazar</h3>
+
+<p
+align="center">
+<img src="https://github.com/XP-Tekurai99/XP-Tekurai99/blob/output/github-contribution-grid-snake.svg"/>
+</p>
