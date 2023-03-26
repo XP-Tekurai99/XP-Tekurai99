@@ -18,7 +18,9 @@
 </p>
 
 <h3 align="left">Languages, Libraries, and Frameworks:</h3>
-<p align="left"> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" alt="solidity" width="40" height="40"/> </a>
+<p align="left"> 
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" alt="solidity" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
