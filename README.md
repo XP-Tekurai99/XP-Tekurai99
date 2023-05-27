@@ -6,6 +6,10 @@
 </p>
 
 ## Software Engineer
+<p
+  align="center">
+  <img src="https://media2.giphy.com/media/11e5gZ6NJ8AB1K/giphy.gif?cid=ecf05e472ils8gq2vo3ttggksu58r3qi4mvjsi9yn6f72s3h&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</p>
 
 - AI Research, Machine Learning, Data Science, Software Development
 - I’m open to collaborate on machine learning projects in robotics, healthcare, and education
