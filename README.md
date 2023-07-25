@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/23NitOvEEkMAAAAi/optical-illusion-rotating-head.gif"/>
 </p>
 
-## Software Engineer
+## Data Analytics
 <p
   align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ2OTJlZjgwYzYxZGRlOTdhNTk0OTQ2MjFhMzQ1OTg2YmIwYTc2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uzwy6KQ/giphy.gif"/>
